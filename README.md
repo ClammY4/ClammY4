@@ -36,5 +36,4 @@
 <a href="https://github.com/ClammY4">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClammY4&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClammY4&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClammY4&theme=aura" height="180em" />
 </div>
