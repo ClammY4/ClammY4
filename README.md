@@ -1,4 +1,5 @@
-<h1 align="center">Selam, Merhaba Ben Uğur Özkan</h1>
+<h1 align="center">Selam Ben Uğur Özkan</h1>
+<h3 align="center">Yazılım sektörüne yeni adım atmış olsam'da bu sektörde iyi bir yerlere gelmeyi hedeflemekteyim.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClammY4&label=Profile%20views&color=0e75b6&style=flat" alt="ClammY4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ClammY4&theme=nord" alt="ClammY4" /></a> </p>
